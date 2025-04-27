@@ -51,3 +51,11 @@ Run the application:
 4. Generate Report: Visualize your expenses category-wise.
 
 ✅ Data is saved automatically in a expenses.json file for seamless persistence across sessions.
+
+# 🧑‍💻 Author
+  
+  Parv Khandelwal
+
+# 📧 Contact
+  
+  For any queries, reach out at parvkhandelwal30@gmail.com
